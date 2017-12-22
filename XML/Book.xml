@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--<Book>
+  <Id>2</Id>
+  <Name>сказки </Name>
+  <Author>А.С Пушкин</Author>
+  <Price>123</Price>
+<PublishDate>11.12.12</PublishDate>
+</Book>-->
+<book Id="12rr-434-45-4v"
+      Nmae="сказка"
+      Price="123"
+      Author="А.С Пушкин"
+      PublishDate="11.12.12">
+  
+  
+</book>
